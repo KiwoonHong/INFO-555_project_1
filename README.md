@@ -2,8 +2,11 @@
 ## Author
 
 Kiwoon Hong
+
 University of Arizona
+
 kiwoon2799@arizona.edu
+
 
 ## Project Title
 
@@ -20,7 +23,7 @@ Customer reviews are essential for industries as they influence brand reputation
 * `INFO555_Project1_Kiwoon_Hong_clear`: A file that has been cleared of output.
 * The result is the same whether you run with either file
 * `INFO_555_Project_1_Writeup`: A 2-page paper containing the description, experiment, analysis, and results of the project.
-* `~\INFO-555_project_1\data`: This is data from the project, but you can load it directly from within the code.
+* `~\data\train_car`: This is data from the project, but you can load it directly from within the code.
 ### Executing
 
 * This code is suitable for running in Google Colab.
