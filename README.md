@@ -21,7 +21,7 @@ Customer reviews are essential for industries as they influence brand reputation
 ### Files
 * `INFO555_Project1_Kiwoon_Hong.ipynb`: A code file that has already been run and contains output.
 * `INFO555_Project1_Kiwoon_Hong_clear.ipynb`: A code file that has been cleared of output.
-** The result is the same whether you run with either file
+* The result is the same whether you run with either file
 * `INFO_555_Project_1_Writeup.pdf`: A 2-page paper containing the description, experiment, analysis, and results of the project.
 * `~\data\train_car.csv`: This is data from the project, but you can load it directly from within the code.
 ### Executing
