@@ -19,11 +19,11 @@ Customer reviews are essential for industries as they influence brand reputation
 ## Instructions
 
 ### Files
-* `INFO555_Project1_Kiwoon_Hong`: A file that has already been run and contains output.
-* `INFO555_Project1_Kiwoon_Hong_clear`: A file that has been cleared of output.
-* The result is the same whether you run with either file
-* `INFO_555_Project_1_Writeup`: A 2-page paper containing the description, experiment, analysis, and results of the project.
-* `~\data\train_car`: This is data from the project, but you can load it directly from within the code.
+* `INFO555_Project1_Kiwoon_Hong.ipynb`: A code file that has already been run and contains output.
+* `INFO555_Project1_Kiwoon_Hong_clear.ipynb`: A code file that has been cleared of output.
+** The result is the same whether you run with either file
+* `INFO_555_Project_1_Writeup.pdf`: A 2-page paper containing the description, experiment, analysis, and results of the project.
+* `~\data\train_car.csv`: This is data from the project, but you can load it directly from within the code.
 ### Executing
 
 * This code is suitable for running in Google Colab.
@@ -31,7 +31,7 @@ Customer reviews are essential for industries as they influence brand reputation
 
 ### Running code blocks
 
-* If you run them in order from the top, it would work out.
+* If you run the notebook in order from the top, it would work out.
 * `Import Libraries`, `Load Dataset`: Import the required libraries and load the dataset from the huggingface
 * `EDA`: Shows the structure of your data, but must be run for the next step.
 * `Model 1 - Transformers`: Contains sentiment analysis models 1 and 2 and the Zero-Shot Classifier model.
